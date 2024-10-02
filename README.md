@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Developer RPA<br>Software Developer at @EY<br>I’m currently learning Django, JavaScript and Java</p>
+<p align="left">Backend Developer<br>Software Developer at @EY<br>I’m currently learning Django, JavaScript and Java</p>
 
 ###
 
